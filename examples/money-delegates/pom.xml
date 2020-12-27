@@ -9,7 +9,7 @@
 	<name>Acme Corporation Money Delegates</name>
 
 	<properties>
-		<activiti.version>5.18.0</activiti.version>
+		<activiti.version>5.23.0</activiti.version>
 	</properties>
 
 	<dependencies>
